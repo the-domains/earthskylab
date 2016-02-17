@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SkyLab.Earth]]></title>
         <description><![CDATA[SkyLab.Earth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://skylab.earth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 12:40:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 14:47:40 GMT</lastBuildDate>
+        <atom:link href="http://skylab.earth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We are are searching for an abandoned village to rebuild into a new kind of settlement for the 21st century.</p>]]></description>
+            <link>http://skylab.earth/124efcca-69eb-4dae-92c1-a88467a60fa5/index.html</link>
+            <guid isPermaLink="false">124efcca-69eb-4dae-92c1-a88467a60fa5</guid>
+            <pubDate>Wed, 17 Feb 2016 14:47:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/196eb7e4-1c45-49a8-bbb8-a7fff473ebd3.jpg">]]></description>
-            <link>undefined9d920efa-33fb-4a97-82fe-81b18a9feeb7/index.html</link>
+            <link>http://skylab.earth/9d920efa-33fb-4a97-82fe-81b18a9feeb7/index.html</link>
             <guid isPermaLink="false">9d920efa-33fb-4a97-82fe-81b18a9feeb7</guid>
             <pubDate>Wed, 17 Feb 2016 12:39:26 GMT</pubDate>
         </item>
