@@ -1,4 +1,4 @@
-name: EarthSkyLab
+name: SkyLab.Earth
 favicon: null
 layout_spectrum: 0.5274211659561843
 typography_spectrum: 0.747996537014842
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#73628c'
+    - '#6b2063'
+    - '#0c4965'
+    - '#c7cbd7'
   brandStrength: 0.0923027298413217
-  lightness: 0.8140518076252192
+  lightness: 0.875
   saturation: 0.9994384131859988
-  rhythmicContrast: 0.9104865393601358
+  rhythmicContrast: 0.75
 purpose: []
